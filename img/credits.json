@@ -1,0 +1,212 @@
+{
+  "vintgar": {
+    "file": "vintgar.jpg",
+    "caption": "Vintgar Gorge",
+    "title": "Blejski Vintgar 01.jpg",
+    "author": "Smihael",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABlejski%20Vintgar%2001.jpg",
+    "requestedWidth": 900,
+    "bytes": 74978
+  },
+  "sum": {
+    "file": "sum.jpg",
+    "caption": "The Šum waterfall",
+    "title": "Waterfall Šum in Slovenia (51785088749).jpg",
+    "author": "Jernej Furman from Maribor, Slovenia",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AWaterfall%20%C5%A0um%20in%20Slovenia%20(51785088749).jpg",
+    "requestedWidth": 620,
+    "bytes": 104870
+  },
+  "radovna": {
+    "file": "radovna.jpg",
+    "caption": "The Radovna near Krnica",
+    "title": "Radovna pri vasi Krnica.jpg",
+    "author": "Vid Pogacnik",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARadovna%20pri%20vasi%20Krnica.jpg",
+    "requestedWidth": 900,
+    "bytes": 67678
+  },
+  "pokljuka-gorge": {
+    "file": "pokljuka-gorge.jpg",
+    "caption": "Pokljuka Gorge",
+    "title": "PokljuskaSoteska2.JPG",
+    "author": "Sl-Ziga",
+    "licence": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3APokljuskaSoteska2.JPG",
+    "requestedWidth": 900,
+    "bytes": 84772
+  },
+  "visevnik": {
+    "file": "visevnik.jpg",
+    "caption": "From the top of Viševnik",
+    "title": "View form Viševnik, Slovenia (2024).jpg",
+    "author": "Unomano",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AView%20form%20Vi%C5%A1evnik%2C%20Slovenia%20(2024).jpg",
+    "requestedWidth": 900,
+    "bytes": 38785
+  },
+  "debela-pec": {
+    "file": "debela-pec.jpg",
+    "caption": "Debela peč",
+    "title": "Debela pec.jpg",
+    "author": "Mihael Simonič",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADebela%20pec.jpg",
+    "requestedWidth": 900,
+    "bytes": 60201
+  },
+  "osojnica": {
+    "file": "osojnica.jpg",
+    "caption": "Lake Bled from Mala Osojnica",
+    "title": "Mala Osojnica - Blick ins Tal (51581283953).jpg",
+    "author": "domjisch from Graz, Austria",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMala%20Osojnica%20-%20Blick%20ins%20Tal%20(51581283953).jpg",
+    "requestedWidth": 900,
+    "bytes": 39722
+  },
+  "bled-island": {
+    "file": "bled-island.jpg",
+    "caption": "Bled island",
+    "title": "Bled Island 05.jpg",
+    "author": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABled%20Island%2005.jpg",
+    "requestedWidth": 900,
+    "bytes": 95387
+  },
+  "bled-castle": {
+    "file": "bled-castle.jpg",
+    "caption": "Bled Castle",
+    "title": "Bled Castle 05.jpg",
+    "author": "Mihael Grmek",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABled%20Castle%2005.jpg",
+    "requestedWidth": 620,
+    "bytes": 55339
+  },
+  "pokljuka": {
+    "file": "pokljuka.jpg",
+    "caption": "The Pokljuka plateau",
+    "title": "Pokljuka-244355.jpg",
+    "author": "Jonatan Pie",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File%3APokljuka-244355.jpg",
+    "requestedWidth": 900,
+    "bytes": 62248
+  },
+  "pokljuka-pasture": {
+    "file": "pokljuka-pasture.jpg",
+    "caption": "Pasture on Pokljuka",
+    "title": "Mountain pastures at Pokljuka plateau, Julian alps (52340727204).jpg",
+    "author": "Jernej Furman from Slovenia",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMountain%20pastures%20at%20Pokljuka%20plateau%2C%20Julian%20alps%20(52340727204).jpg",
+    "requestedWidth": 620,
+    "bytes": 150653
+  },
+  "bohinj": {
+    "file": "bohinj.jpg",
+    "caption": "Lake Bohinj",
+    "title": "Bohinjsko jezero 2.jpg",
+    "author": "Smihael",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABohinjsko%20jezero%202.jpg",
+    "requestedWidth": 620,
+    "bytes": 48989
+  },
+  "savica": {
+    "file": "savica.jpg",
+    "caption": "The Savica waterfall",
+    "title": "Savica Fall.jpg",
+    "author": "Tiia Monto",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASavica%20Fall.jpg",
+    "requestedWidth": 520,
+    "bytes": 174551
+  },
+  "radovljica": {
+    "file": "radovljica.jpg",
+    "caption": "Radovljica old town",
+    "title": "Radovljica old town centre.jpg",
+    "author": "Kaktus999 at en.wikipedia",
+    "licence": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARadovljica%20old%20town%20centre.jpg",
+    "requestedWidth": 620,
+    "bytes": 52796
+  },
+  "mezakla": {
+    "file": "mezakla.jpg",
+    "caption": "The Mežakla plateau",
+    "title": "Mežakla - panorama.jpg",
+    "author": "Smihael",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMe%C5%BEakla%20-%20panorama.jpg",
+    "requestedWidth": 900,
+    "bytes": 30244
+  },
+  "gorje": {
+    "file": "gorje.jpg",
+    "caption": "Zgornje Gorje",
+    "title": "2017-8-Zgornje Gorje (3).jpg",
+    "author": "ModriDirkac",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3A2017-8-Zgornje%20Gorje%20(3).jpg",
+    "requestedWidth": 900,
+    "bytes": 33432
+  },
+  "triglav": {
+    "file": "triglav.jpg",
+    "caption": "Triglav National Park",
+    "title": "Panorama of the Triglav National park including Triglav.jpg",
+    "author": "Filip Troníček",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3APanorama%20of%20the%20Triglav%20National%20park%20including%20Triglav.jpg",
+    "requestedWidth": 1100,
+    "bytes": 32080
+  },
+  "kremsnita": {
+    "file": "kremsnita.jpg",
+    "caption": "Blejska kremšnita",
+    "title": "Bled Cremeschnitte (blejska kremšnita).jpg",
+    "author": "Petar Milošević",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABled%20Cremeschnitte%20(blejska%20krem%C5%A1nita).jpg",
+    "requestedWidth": 560,
+    "bytes": 67895
+  },
+  "king-alexander": {
+    "file": "king-alexander.png",
+    "caption": "King Alexander I, 1920",
+    "title": "1920 Alexander I of Yugoslavia.png",
+    "author": "Milan Srškić (1890-1937)",
+    "licence": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3A1920%20Alexander%20I%20of%20Yugoslavia.png",
+    "requestedWidth": 460,
+    "bytes": 100402
+  },
+  "vintgar-postcard": {
+    "file": "vintgar-postcard.jpg",
+    "caption": "The Šum waterfall on an old postcard",
+    "title": "Postcard of Blejski Vintgar, Šum waterfall.jpg",
+    "author": "Vekoslav Kramarič",
+    "licence": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3APostcard%20of%20Blejski%20Vintgar%2C%20%C5%A0um%20waterfall.jpg",
+    "requestedWidth": 520,
+    "bytes": 104304
+  },
+  "mezakla-postcard": {
+    "file": "mezakla-postcard.jpg",
+    "caption": "Mežakla, 1960",
+    "title": "Postcard of Mežakla 1960.jpg",
+    "author": "Unknown author Unknown author",
+    "licence": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3APostcard%20of%20Me%C5%BEakla%201960.jpg",
+    "requestedWidth": 560,
+    "bytes": 65887
+  }
+}
